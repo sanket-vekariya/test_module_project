@@ -16,7 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.sa.test_module_project.MainAppActivity">
+        <activity android:name="com.sa.test_third_module.MainThirdActivity">
         </activity>
     </application>
 

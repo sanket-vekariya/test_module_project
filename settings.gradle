@@ -1,2 +1,3 @@
-include ':app', ':test_second_module'
+//include ':app'
+include ':app', ':test_second_module', ':test_third_module'
 rootProject.name='test_module_project'
