@@ -8,5 +8,10 @@ class MainSecondActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main_second)
+//
+//        mainSecondButton.setOnClickListener {
+//            val intent = Intent(this,MainAppActivity::class.java)
+//            startActivity(intent)
+//        }
     }
 }
