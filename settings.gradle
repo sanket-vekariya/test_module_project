@@ -1,0 +1,2 @@
+include ':app', ':test_second_module'
+rootProject.name='test_module_project'
